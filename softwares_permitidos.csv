@@ -1,221 +1,127 @@
-SoftwareName
-windows_11
-microsoft_365
-google_chrome
-microsoft_edge
-kaspersky_endpoint_security_for_windows
-anydesk(versão_corporativa)
-asana
-acrobat_dc
-azure_vpn_client
-openvpn
-keepass
-firefox
-notepad++
-pdfsam_basic
-think-cell
-vivo_voz_negócio
-winrar
-skype
-pje_calc
-pjeoffice_pro
-excalidraw
-siptek_softphone
-pdf_reader
-chatgpt
-slack
-microsoft_teams
-zoom
-greenshot
-loom
-draw.io
-adobe_acrobat_reader
-assinador_serpro_4.2.1
-microsoft_onedrive
-powerbi_desktop
-microsoft_powerbi_desktop
-onedrive
-zeev
-powershell
-docusign_pki
-able2extract_professional_v18
-postgresql
-visual_c++
-quick_filler
-visual_studio_code(vscode)
-node.js
-sql_server_management_studio
-oracle_database
-git
-postman
-dbeaver
-mongodb
-anaconda_python
-putty
-github_desktop
-sql_server_2022
-visual_studio_2022
-pycharm
-filezilla
-obsidian
-azure_data_studio
-amazon_athena_odbc_driver
-azure_developer_cli
-sped_contábil
-meld
-aws_vpn_client
-rstudio
-pgadmin_4
-tabular_editor
-realtek_card_reader
-lightshot-5.5.0.7
-aplicativo_itaú
-krisp
-azure_data_studio_(user)
-bruno_1.30.1
-bruno_1.34.2
-bruno_1.39.1
-bruno_1.22.0
-google_meet
-python_launcher
-web_pki
-whatsapp
-install_fonts
-office
-anydesk
-microsoft_intune_management_extension
-chrome
-defender_for_endpoint
-kaspersky_security_center_network_agent
-teams
-able2extract
-visual_studio_code
-nodejs
-puthon
-shodo-1.2.0
-dell_display_manager_2.1
-microsoft_windows_desktop_runtime_-_6.0.36_(x64)
-dell_display_manager_2.2
-dell_pair
-microsoft_help_viewer_2.3
-logi_plugin_service
-microsoft_onenote_-_es-es
-dell_supportassist_remediation
-dell_optimizer
-dell_optimizer_core
-microsoft_windows_desktop_runtime_-_8.0.20_(x64)
-assistente_de_recuperação_e_suporte_da_microsoft
-mysql_installer
-microsoft_update_health_tools
-intel(r)_graphics_software_&_drivers
-dell_core_services
-dell_peripheral_manager
-windows_subsystem_for_linux_update
-dell_supportassist_os_recovery_plugin_for_dell_update
-goodix_fingerprint_driver
-microsoft_onenote_-_fr-fr
-dell_trusted_device_agent
-bizagi_modeler
-microsoft_azure_storage_explorer_version_1.34.0
-mozilla_maintenance_service
-.net_framework
-windows_defender
-supportassist
-edge_chromium-based
-onenote_2016
-asp.net_core
-.net
-displaylink_graphics
-defender_security_intelligence_updates
-hd_audio_codec_drivers
-reader_extended_language_support_font_pack
-command_update
-spotify
-python
-mysql
-drawio
-windows_subsystem_for_linux
-odbc
-openssl
-kubernetes
-management_engine_components
-update
-microsoft_windows_desktop_runtime_-_9.0.9_(x64)
-realtek_usb_ethernet_controller_all-in-one_windows_driver
-aws_command_line_interface_v2
-logi_options+
-dell_trusted_device
-microsoft_system_clr_types_para_sql_server_2019
-dell_display_manager_2.0
-microsoft_visual_studio_installer
-aws_sam_command_line_interface
-microsoft_azure_cli_(64-bit)
-microsoft_visual_studio_tools_for_applications_2019
-azure_functions_core_tools_-_4.0.5858_(x64)
-microsoft_windows_desktop_runtime_-_5.0.17_(x64)
-intel(r)_arc_software_&_drivers
-windows_software_development_kit_-_windows_10.0.22621.3233
-r_for_windows_4.3.0
-microsoft_azure_cli
-microsoft_azure_storage_explorer_version_1.33.0
-expressconnect_drivers_&_services
-windows_sdk_addon
-r_for_windows_4.3.2
-azure_functions_core_tools_-_4.0.5907_(x64)
-microsoft_azure_portal_(pwa)
-driver_do_microsoft_ole_db_para_sql_server
-vs_coreeditorfonts
-microsoft_web_deploy_4.0
-logitech_g_hub
-windows_software_development_kit_-_windows_10.0.22000.832
-pdfsam_enhanced_7
-mydell
-r_for_windows_4.5.0
-microsoft_windows_desktop_runtime_-_7.0.7_(x64)
-microsoft_azure_storage_explorer_version_1.33.1
-microsoft_visual_studio_tools_for_applications_2017
-microsoft_windows_desktop_runtime_-_9.0.8_(x64)
-safesign_64-bits
-navegador_para_sql_server_2019
-gravador_vss_da_microsoft_para_sql_server_2019
-microsoft_azure_compute_emulator_-_v2.9.7
-microsoft_windows_desktop_runtime_-_8.0.19_(x64)
-windows_software_development_kit_-_windows_10.0.26100.4188
-microsoft_windows_desktop_runtime_-_7.0.20_(x64)
-microsoft_access_database_engine_2016_(english)
-microsoft_sql_server_2012_native_client_
-sql_server_2019_serviço_de_linguagem_t-sql__da_microsoft
-nvidia_driver_de_gráficos_511.81
-microsoft_azure_authoring_tools_-_v2.9.7
-kaspersky endpoint security_for_windows
-office_16_click-to-run_localization_component
-litedb
-log4j
-aplicaciones_de_microsoft_365_para_negocios_-_es-es
-office_16_click-to-run_licensing_component
-microsoft_teams_meeting_add-in_for_microsoft_office
-slack_deployment_tool
-microsoft_.net_runtime_-_8.0.20_(x64)
-microsoft_asp.net_core_7.0.20_-_shared_framework_(x64)
-desktop
-microsoft_.net_sdk_8.0.302_(x64)_from_visual_studio
-.net_core
-microsoft_365_apps_for_business_-_en-us
-gravador_vss_da_microsoft_para_sql_server_2022
-microsoft_365_apps_para_grandes_empresas_-_pt-br
-microsoft_.net_sdk_8.0.317_(x64)
-office_16_click-to-run_extensibility_component
-microsoft_asp.net_core_8.0.20_-_shared_framework_(x64)
-microsoft_.net_core_sdk_3.1.426_(x64)
-microsoft_365_-_pt-br
-pacote_de_idiomas_do_microsoft_help_viewer_2.3_–_ptb
-microsoft_support_and_recovery_assistant
-microsoft_365_-_es-es
-microsoft_.net_sdk_5.0.408_(x64)
-navegador_para_sql_server_2022
-microsoft_office_365_ediscovery_export_tool
-commons_text
-xz_utils
-windows_subsystem_for_linux_wslg_preview
-microsoft_.net_sdk_6.0.428_(x64)
-microsoft_azure_powershell_-_april_2018
+{"SoftwareVendor": "Microsoft"}
+{"SoftwareVendor": "Microsoft Corporation"}
+{"SoftwareVendor": "Windows"}
+{"SoftwareVendor": "Office"}
+{"SoftwareVendor": "Visual Studio"}
+{"SoftwareVendor": "Azure"}
+{"SoftwareVendor": "OneDrive"}
+{"SoftwareVendor": "Power BI"}
+{"SoftwareVendor": "Defender"}
+{"SoftwareVendor": ".NET"}
+{"SoftwareVendor": "Intune"}
+{"SoftwareVendor": "SQL Server"}
+{"SoftwareVendor": "Teams"}
+{"SoftwareVendor": "apache"}
+{"SoftwareVendor": "Outlook"}
+{"SoftwareVendor": "Edge"}
+{"SoftwareVendor": "Visual C++"}
+{"SoftwareVendor": "openssl"}
+{"SoftwareVendor": "anydesk"}
+{"SoftwareVendor": "postman"}
+{"SoftwareVendor": "rarlab"}
+{"SoftwareVendor": "Google"}
+{"SoftwareVendor": "Google LLC"}
+{"SoftwareVendor": "Chrome"}
+{"SoftwareVendor": "Meet"}
+{"SoftwareVendor": "vivo"}
+{"SoftwareVendor": "dazsoft"}
+{"SoftwareVendor": "bt_creditos"}
+{"SoftwareVendor": "banco_itaú"}
+{"SoftwareVendor": "conselho_nacional_de_justiça_-_cnj"}
+{"SoftwareVendor": "sober_lemur_s.r.l."}
+{"SoftwareVendor": "Kaspersky"}
+{"SoftwareVendor": "AO Kaspersky Lab"}
+{"SoftwareVendor": "Adobe"}
+{"SoftwareVendor": "Adobe Inc."}
+{"SoftwareVendor": "Dell"}
+{"SoftwareVendor": "Dell Inc."}
+{"SoftwareVendor": "Dell Technologies"}
+{"SoftwareVendor": "Intel"}
+{"SoftwareVendor": "Intel Corporation"}
+{"SoftwareVendor": "Mozilla"}
+{"SoftwareVendor": "Mozilla Foundation"}
+{"SoftwareVendor": "Oracle"}
+{"SoftwareVendor": "Oracle Corporation"}
+{"SoftwareVendor": "Amazon"}
+{"SoftwareVendor": "Amazon Web Services"}
+{"SoftwareVendor": "AWS"}
+{"SoftwareVendor": "GitHub"}
+{"SoftwareVendor": "Git"}
+{"SoftwareVendor": "PostgreSQL Global Development Group"}
+{"SoftwareVendor": "PostgreSQL"}
+{"SoftwareVendor": "MongoDB"}
+{"SoftwareVendor": "ubuntu"}
+{"SoftwareVendor": "jgraph"}
+{"SoftwareVendor": "docker"}
+{"SoftwareVendor": "tukaani"}
+{"SoftwareVendor": "nodejs"}
+{"SoftwareVendor": "mbdavid"}
+{"SoftwareVendor": "dbeaver"}
+{"SoftwareVendor": "kubernetes"}
+{"SoftwareVendor": "notepad_plus_plus"}
+{"SoftwareVendor": "chromium"}
+{"SoftwareVendor": "debian"}
+{"SoftwareVendor": "think-cell_operations_gmbh"}
+{"SoftwareVendor": "nome_de_sua_empresa"}
+{"SoftwareVendor": "r_core_team"}
+{"SoftwareVendor": "anoop_m_d"}
+{"SoftwareVendor": "JetBrains"}
+{"SoftwareVendor": "sober_lemur_s.a.s._di_vacondio_andrea"}
+{"SoftwareVendor": "Slack"}
+{"SoftwareVendor": "Zoom"}
+{"SoftwareVendor": "VideoLAN"}
+{"SoftwareVendor": "Don Ho"}
+{"SoftwareVendor": "Notepad++"}
+{"SoftwareVendor": "Dominik Reichl"}
+{"SoftwareVendor": "KeePass"}
+{"SoftwareVendor": "OpenVPN"}
+{"SoftwareVendor": "OpenVPN Technologies Inc."}
+{"SoftwareVendor": "Asana"}
+{"SoftwareVendor": "think-cell Software GmbH"}
+{"SoftwareVendor": "win.rar GmbH"}
+{"SoftwareVendor": "Skype"}
+{"SoftwareVendor": "SERPRO"}
+{"SoftwareVendor": "Serviço Federal de Processamento de Dados"}
+{"SoftwareVendor": "Andrea Vacondio"}
+{"SoftwareVendor": "PDFSam"}
+{"SoftwareVendor": "DocuSign"}
+{"SoftwareVendor": "Investintech"}
+{"SoftwareVendor": "VSCode"}
+{"SoftwareVendor": "Node.js Foundation"}
+{"SoftwareVendor": "OpenJS Foundation"}
+{"SoftwareVendor": "DBeaver Corp"}
+{"SoftwareVendor": "Anaconda"}
+{"SoftwareVendor": "Python Software Foundation"}
+{"SoftwareVendor": "python"}
+{"SoftwareVendor": "Simon Tatham"}
+{"SoftwareVendor": "FileZilla Project"}
+{"SoftwareVendor": "Obsidian"}
+{"SoftwareVendor": "Posit Software"}
+{"SoftwareVendor": "RStudio"}
+{"SoftwareVendor": "Realtek"}
+{"SoftwareVendor": "Realtek Semiconductor Corp."}
+{"SoftwareVendor": "Logitech"}
+{"SoftwareVendor": "Logitech Europe S.A."}
+{"SoftwareVendor": "NVIDIA"}
+{"SoftwareVendor": "NVIDIA Corporation"}
+{"SoftwareVendor": "Spotify AB"}
+{"SoftwareVendor": "Skillbrains"}
+{"SoftwareVendor": "Itaú Unibanco"}
+{"SoftwareVendor": "Bizagi"}
+{"SoftwareVendor": "SAP"}
+{"SoftwareVendor": "Cloud Native Computing Foundation"}
+{"SoftwareVendor": "Amazon Web Services, Inc."}
+{"SoftwareVendor": "MySQL"}
+{"SoftwareVendor": "DisplayLink"}
+{"SoftwareVendor": "Goodix"}
+{"SoftwareVendor": "Tabular Editor ApS"}
+{"SoftwareVendor": "Wireshark Foundation"}
+{"SoftwareVendor": "The Document Foundation"}
+{"SoftwareVendor": "Zoom Video Communications"}
+{"SoftwareVendor": "Azul Systems"}
+{"SoftwareVendor": "Eclipse Foundation"}
+{"SoftwareVendor": "Shodo"}
+{"SoftwareVendor": "Zeev"}
+{"SoftwareVendor": "Bruno"}
+{"SoftwareVendor": "Excalidraw"}
+{"SoftwareVendor": "Krisp Technologies Inc."}
